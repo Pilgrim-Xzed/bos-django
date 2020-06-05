@@ -1,4 +1,4 @@
-Django==1.5.12
+Django==1.11.29
 django-appengine-toolkit==0.2.1
 GoogleAppEngineCloudStorageClient==1.9.22.1
 mysqlclient==1.4.2.post1
