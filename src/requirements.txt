@@ -2,7 +2,7 @@ Django==1.5.12
 django-appengine-toolkit==0.2.1
 GoogleAppEngineCloudStorageClient==1.9.22.1
 mysqlclient==1.4.2.post1
-Pillow==6.1.0
+Pillow==9.0.1
 PyMySQL==0.9.3
 pytz==2019.2
 sqlparse==0.3.0
